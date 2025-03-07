@@ -31,7 +31,7 @@ In this section, I analyze climate data using Python and SQLAlchemy:
   * Visualize precipitation trends over time
   * Calculate summary statistics
 
-  ![1741318557296](image/README/1741318557296.png)
+  ![1741318557296](image/README/Histogram_README.md_image.png)
 * Perform station analysis:
 
   * Calculate the total number of stations
@@ -39,7 +39,7 @@ In this section, I analyze climate data using Python and SQLAlchemy:
   * Analyze temperature data for the most active station
   * Create a histogram of temperature observations
 
-  ![1741318534085](image/README/1741318534085.png)
+  ![1741318534085](image/README/Second_diagram.png)
 
 ### Part 2: Flask API Development
 
