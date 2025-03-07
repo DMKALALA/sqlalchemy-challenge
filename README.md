@@ -50,6 +50,7 @@ In this section, I design and implement a Flask API with the following routes:
 * Stations route (`/api/v1.0/stations`): Returns JSON list of stations
 * Temperature Observations route (`/api/v1.0/tobs`): Returns temperature data for the most active station
 * Start/End Date routes (`/api/v1.0/<start>` and `/api/v1.0/<start>/<end>`): Returns temperature statistics for specified date ranges
+* [Station Analysis ](http://127.0.0.1:5000/api/v1.0/station-analysis): **/api/v1.0/station-analysis**
 
 ## Tools and Technologies Used
 
